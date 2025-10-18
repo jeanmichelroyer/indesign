@@ -1,1 +1,3 @@
 # indesign
+
+## Script - redefineScalingAs100
